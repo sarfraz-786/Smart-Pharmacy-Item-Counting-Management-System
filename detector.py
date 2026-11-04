@@ -20,7 +20,7 @@ from ultralytics import YOLO
 # Change only this line if you move the model file.
 # ------------------------------------------------------------
 
-MODEL_PATH = r"C:\Users\Acer\Downloads\object counting\model.pt"
+MODEL_PATH = r"model.pt"
 
 # ------------------------------------------------------------
 # SETTINGS
